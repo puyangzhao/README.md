@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="path_to_your_profile_picture" width="100px" height="100px" alt="Profile Picture">
+    <img src="puyangzhao.github.io/images/Weixin Image_20240827133404.jpg" width="100px" height="100px" alt="Profile Picture">
 </div>
 
-<h1 align="center">Hello, I'm [Your Name]!</h1>
+<h1 align="center">Hello, I'm Zpp!</h1>
 
 <p align="center">
     <img src="https://profile-counter.glitch.me/{your_github_username}/count.svg" alt="Visitor Count">
@@ -23,15 +23,15 @@
 
 ## GitHub Stats 📫
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username={your_github_username}&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={your_github_username}&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=puyangzhao&show_icons=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puyangzhao&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
 
 <!-- Contribution Snake Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{your_github_username}/{your_github_username}/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{your_github_username}/{your_github_username}/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{your_github_username}/{your_github_username}/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## Connect with Me 🤝
