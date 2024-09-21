@@ -1,8 +1,4 @@
-<div align="center">
-    <img src="zpp.jpg" width="100px" height="100px" alt="Profile Picture">
-</div>
 
-<h1 align="center">Hello, I'm Zpp!</h1>
 
 My :eyes: ![Visitor Count](https://profile-counter.glitch.me/puyangzhao/count.svg)Visitor.
 
