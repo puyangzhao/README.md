@@ -21,17 +21,19 @@
 - 🚭 **E-cigarette and Tobacco Use Behaviors**: Investigating patterns and impacts of tobacco and e-cigarette usage.
 - 🌍 **Environmental Health Impacts**: Analyzing the effects of environmental factors on public health.
 
-## GitHub Stats 📫
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=puyangzhao&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puyangzhao&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-</div>
 
 
 
 ## Connect with Me 🤝
 <div>
     <!-- Replace `your_linkedin_profile` with your actual LinkedIn URL -->
-    <a href="your_linkedin_profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="puyang-zhao-24343b191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <!-- Add more social links if needed -->
 </div>
+
+<!-- Contribution Snake Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake.svg">
+</picture>
