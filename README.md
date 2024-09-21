@@ -5,7 +5,7 @@
 <h1 align="center">Hello, I'm Zpp!</h1>
 
 <p align="center">
-    <img src="https://profile-counter.glitch.me/{your_github_username}/count.svg" alt="Visitor Count">
+    <img src="https://profile-counter.glitch.me/Zpp/count.svg" alt="Visitor Count">
 </p>
 
 ## About Me 📚
