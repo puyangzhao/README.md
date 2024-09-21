@@ -16,9 +16,4 @@ My :eyes: ![Visitor Count](https://profile-counter.glitch.me/puyangzhao/count.sv
 - 🌍 **Environmental Health Impacts**: Analyzing the effects of environmental factors on public health.
 - 🔬 **Wearable Device Data Analysis**: Engaging in the study and analysis of biometric data collected from devices like smartwatches and fitness trackers.
 
-## Connect with Me 🤝
-<div>
-    <!-- Replace `your_linkedin_profile` with your actual LinkedIn URL -->
-    <a href="[puyang-zhao-24343b191](https://www.linkedin.com/in/puyang-zhao-24343b191/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <!-- Add more social links if needed -->
-</div>
+
