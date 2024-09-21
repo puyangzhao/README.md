@@ -21,6 +21,6 @@ My :eyes: ![Visitor Count](https://profile-counter.glitch.me/puyangzhao/count.sv
 ## Connect with Me 🤝
 <div>
     <!-- Replace `your_linkedin_profile` with your actual LinkedIn URL -->
-    <a href="puyang-zhao-24343b191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="puyang-zhao-24343b191"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <!-- Add more social links if needed -->
 </div>
