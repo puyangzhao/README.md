@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="puyangzhao.github.io/images/Weixin Image_20240827133404.jpg" width="100px" height="100px" alt="Profile Picture">
+    <img src="zpp.jpg" width="100px" height="100px" alt="Profile Picture">
 </div>
 
 <h1 align="center">Hello, I'm Zpp!</h1>
@@ -27,12 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puyangzhao&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
 
-<!-- Contribution Snake Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/puyangzhao/puyangzhao/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## Connect with Me 🤝
 <div>
