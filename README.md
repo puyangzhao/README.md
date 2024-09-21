@@ -4,9 +4,7 @@
 
 <h1 align="center">Hello, I'm Zpp!</h1>
 
-<p align="center">
-   My <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/eyes_1f440.png" alt="Eyes Emoji" style="height:20px;"> ![Visitor Count](https://profile-counter.glitch.me/puyangzhao/count.svg)
-</p>
+My :eyes: ![Visitor Count](https://profile-counter.glitch.me/puyangzhao/count.svg)
 
 ## About Me 📚
 - 🌱 I am a PhD student in Biostatistics and Data Science at UT Health Science Center at Houston.
